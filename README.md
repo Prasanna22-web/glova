@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Glova
+# 🎯 Focus Guard
 
 **Real-Time Focus & Attention Monitoring, Powered by Computer Vision**
 
